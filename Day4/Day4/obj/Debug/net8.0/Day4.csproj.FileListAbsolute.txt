@@ -1,0 +1,14 @@
+D:\backend\Day4\bin\Debug\net8.0\Day4.exe
+D:\backend\Day4\bin\Debug\net8.0\Day4.deps.json
+D:\backend\Day4\bin\Debug\net8.0\Day4.runtimeconfig.json
+D:\backend\Day4\bin\Debug\net8.0\Day4.dll
+D:\backend\Day4\bin\Debug\net8.0\Day4.pdb
+D:\backend\Day4\obj\Debug\net8.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\Day4\obj\Debug\net8.0\Day4.AssemblyInfoInputs.cache
+D:\backend\Day4\obj\Debug\net8.0\Day4.AssemblyInfo.cs
+D:\backend\Day4\obj\Debug\net8.0\Day4.csproj.CoreCompileInputs.cache
+D:\backend\Day4\obj\Debug\net8.0\Day4.dll
+D:\backend\Day4\obj\Debug\net8.0\refint\Day4.dll
+D:\backend\Day4\obj\Debug\net8.0\Day4.pdb
+D:\backend\Day4\obj\Debug\net8.0\Day4.genruntimeconfig.cache
+D:\backend\Day4\obj\Debug\net8.0\ref\Day4.dll
