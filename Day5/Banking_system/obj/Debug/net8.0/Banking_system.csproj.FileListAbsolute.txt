@@ -1,0 +1,14 @@
+D:\backend\polymerphism_Task\Banking_system\bin\Debug\net8.0\Banking_system.exe
+D:\backend\polymerphism_Task\Banking_system\bin\Debug\net8.0\Banking_system.deps.json
+D:\backend\polymerphism_Task\Banking_system\bin\Debug\net8.0\Banking_system.runtimeconfig.json
+D:\backend\polymerphism_Task\Banking_system\bin\Debug\net8.0\Banking_system.dll
+D:\backend\polymerphism_Task\Banking_system\bin\Debug\net8.0\Banking_system.pdb
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.AssemblyInfoInputs.cache
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.AssemblyInfo.cs
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.csproj.CoreCompileInputs.cache
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.dll
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\refint\Banking_system.dll
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.pdb
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\Banking_system.genruntimeconfig.cache
+D:\backend\polymerphism_Task\Banking_system\obj\Debug\net8.0\ref\Banking_system.dll
