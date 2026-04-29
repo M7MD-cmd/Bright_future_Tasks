@@ -1,0 +1,14 @@
+D:\backend\polymerphism_Task\Employee_Management_System\bin\Debug\net8.0\Employee_Management_System.exe
+D:\backend\polymerphism_Task\Employee_Management_System\bin\Debug\net8.0\Employee_Management_System.deps.json
+D:\backend\polymerphism_Task\Employee_Management_System\bin\Debug\net8.0\Employee_Management_System.runtimeconfig.json
+D:\backend\polymerphism_Task\Employee_Management_System\bin\Debug\net8.0\Employee_Management_System.dll
+D:\backend\polymerphism_Task\Employee_Management_System\bin\Debug\net8.0\Employee_Management_System.pdb
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.AssemblyInfoInputs.cache
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.AssemblyInfo.cs
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.csproj.CoreCompileInputs.cache
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.dll
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\refint\Employee_Management_System.dll
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.pdb
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\Employee_Management_System.genruntimeconfig.cache
+D:\backend\polymerphism_Task\Employee_Management_System\obj\Debug\net8.0\ref\Employee_Management_System.dll
